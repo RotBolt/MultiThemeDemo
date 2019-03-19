@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Base.Dark" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_Dark</item>
+        <item name="color_divider">@color/colorDivider_Dark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Dark</item>
+        <item name="android:itemBackground">@color/colorBackground_Dark</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="color_icon_tint">@color/colorIconTint_Dark</item>
+        <item name="color_item_background">@color/colorBackground_Dark</item>
+        <item name="colorText">@android:color/white</item>
+        <item name="color_nav_bg">@color/colorNavBGDark</item>
+        <item name="color_nav_text">@android:color/white</item>
+        <item name="drawerArrowStyle">@style/DrawerHamburgerStyle</item>
+    </style>
+</resources>

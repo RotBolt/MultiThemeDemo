@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Base.Light" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_Light</item>
+        <item name="color_divider">@color/colorDivider_Light</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Light</item>
+        <item name="android:itemBackground">@color/colorBackground_Light</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="color_icon_tint">@color/colorIconTint_Light</item>
+        <item name="color_item_background">@color/colorBackground_Light</item>
+        <item name="colorText">@android:color/black</item>
+        <item name="color_nav_bg">@color/colorNavBGLight</item>
+        <item name="color_nav_text">@android:color/black</item>
+        <item name="drawerArrowStyle">@style/DrawerHamburgerStyle</item>
+    </style>
+</resources>

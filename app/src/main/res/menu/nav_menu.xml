@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/action_users"
+            android:title="Users"
+            android:icon="@drawable/ic_person_black_24dp"/>
+
+    <item
+            android:id="@+id/action_theme_light"
+            android:title="Light theme"
+            android:icon="@drawable/ic_edit_black_24dp"/>
+
+    <item
+            android:id="@+id/action_theme_dark"
+            android:title="Dark theme"
+            android:icon="@drawable/ic_edit_black_24dp"/>
+
+    <item
+            android:id="@+id/action_theme_ocean"
+            android:title="Ocean theme"
+            android:icon="@drawable/ic_edit_black_24dp"/>
+</menu>

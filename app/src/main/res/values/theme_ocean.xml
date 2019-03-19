@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Base.Ocean" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_Ocean</item>
+        <item name="color_divider">@color/colorDivider_Ocean</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Ocean</item>
+        <item name="android:itemBackground">@color/colorBackground_Ocean</item>
+        <item name="android:textColor">@color/colorPrimary_Ocean</item>
+        <item name="color_icon_tint">@color/colorIconTint_Ocean</item>
+        <item name="color_item_background">@color/colorBackground_Ocean</item>
+        <item name="colorText">@color/colorPrimary_Ocean</item>
+        <item name="color_nav_bg">@color/colorNavBGOcean</item>
+        <item name="color_nav_text">@android:color/white</item>
+        <item name="drawerArrowStyle">@style/DrawerHamburgerStyle</item>
+    </style>
+</resources>
